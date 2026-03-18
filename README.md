@@ -40,9 +40,11 @@ A fully functional public static website hosted on AWS S3.
 
 ## Project Structure
 ```
-├── index.html
-└── README.md
+/  
+├── index.html  
+└── README.md  
 ```
+
 
 ## How to Reproduce
 1. Create an S3 bucket (with a unique global name).  
