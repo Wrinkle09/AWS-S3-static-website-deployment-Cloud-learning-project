@@ -21,7 +21,7 @@ It is my first hands-on project in AWS as part of my cloud learning journey.
 ---
 
 ## Live Demo
-http://dani-aws-web-123.s3-website.eu-south-2.amazonaws.com
+http://dani-aws-web-123.s3-website.eu-south-2.amazonaws.com (Note: AWS bucket deleted; code available in repo)
 
 ---
 
