@@ -21,7 +21,8 @@ It is my first hands-on project in AWS as part of my cloud learning journey.
 ---
 
 ## Live Demo
-http://dani-aws-web-123.s3-website.eu-south-2.amazonaws.com (Note: AWS bucket deleted; code available in repo)
+The AWS S3 bucket has been deleted to avoid cost.  
+Project code still available and documented in this repository.
 
 ---
 
